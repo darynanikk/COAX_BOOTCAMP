@@ -6,3 +6,6 @@
 - Run main.py
 
 2. File name correspond to the task number
+
+3. Additional info
+  - in main.py you can choose Hashing Algorithm
