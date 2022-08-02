@@ -1,4 +1,4 @@
-# COAX_Bootcamp
+# COAX Bootcamp
 
 1. Set up
 - Create virtual environment
